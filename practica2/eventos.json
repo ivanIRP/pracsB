@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Cumpleaños",
+    "fecha": "2026-11-24",
+    "organizador": "juan",
+    "id": 1762555643901,
+    "completado": false
+  },
+  {
+    "nombre": "Graduacion",
+    "fecha": "2026-12-15",
+    "organizador": "luis",
+    "id": 1762555661395,
+    "completado": true
+  },
+  {
+    "nombre": "Reunion",
+    "fecha": "2026-12-22",
+    "organizador": "kevin",
+    "id": 1762555685079,
+    "completado": false
+  }
+]
